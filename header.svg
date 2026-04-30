@@ -1,0 +1,44 @@
+<svg width="800" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@300;400&amp;display=swap');
+      .title {
+        font-family: 'DM Mono', monospace;
+        font-size: 26px;
+        font-weight: 400;
+        fill: #c9d1d9;
+        letter-spacing: 8px;
+        animation: fadeIn 2s ease forwards;
+        opacity: 0;
+      }
+      .sub {
+        font-family: 'DM Mono', monospace;
+        font-size: 11px;
+        font-weight: 300;
+        fill: #555d68;
+        letter-spacing: 4px;
+        animation: fadeIn 2s ease 0.8s forwards;
+        opacity: 0;
+      }
+      .line {
+        stroke: #21262d;
+        stroke-width: 1;
+        animation: expandLine 1.5s ease 0.3s forwards;
+        transform-origin: center;
+        transform: scaleX(0);
+      }
+      @keyframes fadeIn {
+        from { opacity: 0; transform: translateY(6px); }
+        to   { opacity: 1; transform: translateY(0); }
+      }
+      @keyframes expandLine {
+        from { transform: scaleX(0); }
+        to   { transform: scaleX(1); }
+      }
+    </style>
+  </defs>
+  <rect width="800" height="120" fill="#0d1117"/>
+  <line class="line" x1="80" y1="100" x2="720" y2="100"/>
+  <text class="title" x="400" y="55" text-anchor="middle">NAZERAN VC</text>
+  <text class="sub"   x="400" y="82" text-anchor="middle">QUIETLY BUILDING</text>
+</svg>
