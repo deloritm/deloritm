@@ -1,16 +1,55 @@
-## Hi there 👋
+<h1 align="center">NAZERAN VC</h1>
 
-<!--
-**deloritm/deloritm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=AAAAAA&center=true&vCenter=true&width=500&lines=Quiet+Execution;Automation+Systems;Built+in+Silence" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <b>NAZERAN VC</b> is not a brand. It's a mindset.
+</p>
+
+<p align="center">
+  Minimal noise. Maximum output.
+</p>
+
+---
+
+### About
+
+- Software Developer  
+- Automation Architect  
+- System Builder  
+- Infrastructure-Oriented Thinker  
+- Focused on efficiency, scalability, and silent execution  
+
+---
+
+### Philosophy
+
+> Build systems that work without attention.  
+> Move in silence. Let results speak.
+
+---
+
+### Presence
+
+- Instagram → https://instagram.com/nazeran.vc  
+- Telegram → https://t.me/nazeranvc  
+
+---
+
+### Signal
+
+
+No hype.
+No noise.
+Just execution.
+
+
+---
+
+<p align="center">
+  NAZERAN VC • Quietly Building
+</p>
