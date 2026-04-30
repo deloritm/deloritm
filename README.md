@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <b>NAZERAN VC</b> is not a brand. It's a mindset.
+  <b>VC</b> is not a brand. It's a mindset.
 </p>
 
 <p align="center">
